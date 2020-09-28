@@ -18,15 +18,19 @@ intro: Now that you know the basics, let’s answer some of the most frequently 
 
 ### Uniswap & Pickle Farming Combo!
 
-- For those wishing to maximize their Uniswap UNI farming in combination with Pickle, we've [got a special guide just for you.](/pages/uniswap-pickle/)
+For those wishing to maximize their Uniswap UNI farming in combination with Pickle, we've [got a special guide just for you.](/pages/uniswap-pickle/)
 
-### What is the PICKLE token emission schedule?
+### What is the token emission schedule?
+
+TBD
+
+### What’s on the roadmap?
 
 TBD
 
-### What’s on the Pickle Finance roadmap?
+### What’s the easiest way to provide PICKLE/ETH liquidity on Uniswap?
 
-TBD
+Connect your wallet to [Zapper.fi](https://Zapper.fi) → click on the “Invest” tab → type “Pickle” into the Explore Opportunities search field → Click “Add Liquidity”. This will allow you to deposit either ETH or PICKLE into the Uniswap pool.
 
 ### I’ve still got some questions.
 
