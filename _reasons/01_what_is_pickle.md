@@ -11,4 +11,4 @@ Sometimes assets get off-peg, say, when DAI is $1.02, and that’s where Pickle 
 
 Currently, Pickle Finance offers two products—**Jars** and **Farms**—which are accessed by connecting an Ethereum wallet like Metamask to the [Pickel Finance](https://pickle.finance) platform.
 
-Let's now explore [Pickle Farms. →](/pickle-farms.html)
+Let's now explore [Pickle Farms. →](/farms.html)
