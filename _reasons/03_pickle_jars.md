@@ -17,4 +17,4 @@ And it gets even better! When a user deposits Uniswap LP tokens in a Pickle Jar,
 
 At the time of this writing, with the USDC Pickle Jar earning 40% APY, and the USDC Pickle Farm earning about 40%, a Pickle user can earn a whopping 80% APY by participating in Uniswap’s farming program, combined with Pickle Finance!
 
-Let's now look at [Pickle Farms →](/pickle-farms.html)
+Now let's consider the question on everybody's mind, [should I own some PICKLEs? →](/get-pickle.html)

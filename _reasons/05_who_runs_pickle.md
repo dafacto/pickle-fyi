@@ -4,7 +4,10 @@ title: Who runs Pickle Finance?
 intro: Pickle Finance is an anonymous organization, guided through community governance.
 ---
 
-Some text here.
+The Pickle Finance project was conceived and launched by a number of anonymous developers, inspired by the ground broken by Yearn Finance, and focused on the specific need of keeping pegged assets pegged.
 
+The Pickle founders knew, however, that the best crypto projects are community led, and so a governance system was implemented through the [Snapshot platform](https://snapshot.page/#/pickle). There, community-led proposals are posted on voted on, and these signals guide the direction in which the development team evolve the platform.
 
-Now for the question on everyone's mind, [should I get some PICKLE? →](/get-pickle.html)
+In addition, one of the most vibrant communities in DeFi has emerged around Pickle Finance, primarily at the [project Discord](http://discord.gg/gR85hmC). If you're excited about Pickle, we'd love for you to join the #PickleArmy!
+
+So with all that as background, [let’s have a look at some Pickle FAQs. →](/faqs.html)
