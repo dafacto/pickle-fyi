@@ -1,5 +1,5 @@
 ---
-permalink: who-is-pickle.html
+permalink: /who-is-pickle/
 title: Who runs Pickle Finance?
 intro: Pickle Finance is an anonymous organization, guided through community governance.
 ---
@@ -10,4 +10,4 @@ The Pickle founders knew, however, that the best crypto projects are community l
 
 In addition, one of the most vibrant communities in DeFi has emerged around Pickle Finance, primarily at the [project Discord](http://discord.gg/gR85hmC). If you're excited about Pickle, we'd love for you to join the #PickleArmy!
 
-So with all that as background, [let’s have a look at some Pickle FAQs. →](/faqs.html)
+So with all that as background, [let’s have a look at some Pickle FAQs. →](/faqs/)

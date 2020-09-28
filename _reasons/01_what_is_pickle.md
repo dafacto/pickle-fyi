@@ -1,5 +1,5 @@
 ---
-permalink: what-is-pickle.html
+permalink: /what-is-pickle/
 title: What is Pickle Finance?
 short_title: What is Pickle Finance?
 intro: Pickle is a platform that incentivizes the maintenance of crypto asset pegs through yield-generating products.
@@ -11,4 +11,4 @@ Sometimes assets get off-peg, say, when DAI is $1.02, and that’s where Pickle 
 
 Currently, Pickle Finance offers two products—**Jars** and **Farms**—which are accessed by connecting an Ethereum wallet like Metamask to the [Pickel Finance](https://pickle.finance) platform.
 
-Let's now explore [Pickle Farms. →](/farms.html)
+Let's now explore [Pickle Farms. →](/farms/)

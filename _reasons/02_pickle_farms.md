@@ -1,5 +1,5 @@
 ---
-permalink: farms.html
+permalink: /farms/
 title: What are Pickle Farms?
 intro: Pickle Farms are products that allow users to earn the PICKLE token, while helping crypto assets remain on peg.
 ---
@@ -17,4 +17,4 @@ There's one **special Farm** which incentivizes users to provide liquidity at Un
 ![](/images/farms-pickle.png)
 
 
-Now, let’s take a look at [Pickle Jars. →](/jars.html)
+Now, let’s take a look at [Pickle Jars. →](/jars/)

@@ -1,5 +1,5 @@
 ---
-permalink: get-pickle.html
+permalink: /get-pickle/
 title: Should I own some Pickles?
 intro: That’s up to you, but here’s some resources to help make the decision and pick up some PICKLE if you choose!
 ---
@@ -14,4 +14,4 @@ But here’s a few resources that have been published by people on the topic:
 
 **Where to buy and sell?** For those wishing to purchase or sell PICKLE tokens, they currently [trade on Uniswap](https://uniswap.info/pair/0xdc98556Ce24f007A5eF6dC1CE96322d65832A819).
 
-Let's now look at [who runs Pickle Finance. →](/who-is-pickle.html)
+Let's now look at [who runs Pickle Finance. →](/who-is-pickle/)
