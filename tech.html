@@ -1,0 +1,35 @@
+---
+permalink: tech.html
+title: How Pickle works technically
+intro: A peek under the hood.
+---
+
+<p>
+Following is a simplified explanation of how Pickle works technically:
+</p>
+
+<ul>
+
+<li><i>Wallets & keys</i> — Your Pickle wallet creates one or more sets of “keys”. Each set has two parts — a <i>public</i> part that you can share with others (this is a Pickle “address”, and is what you give people who want to send you Pickle), and a <i>private</i> part that can’t be shared with anybody. (Anyone who got hold of the private part, could steal your Pickles!)</li>
+
+<li><i>Transactions</i> — When your Pickle wallet sends some Pickle to someone else, your wallet uses the private part of your key to “sign” the transaction, proving mathematically that you are in fact the owner of the Pickle that’s being sent. It also adds a small “transaction fee”. The transaction fee is determined dynamically, based on the activity of the whole network. (The fee is usually small, say a few cents per transaction.) Once signed, your Pickle wallet “broadcasts” the transaction to the world on the internet.</li>
+
+<li><i>Miners</i> — People all over the world run powerful computers that bundle newly broadcasted Pickle transactions into “blocks”, and then repeatedly try to solve a math problem looking for a solution. When one of these people, known as “Pickle miners”, finds a solution, they have the right to add the new block of transactions to the “Blockchain”, and in the process, are awarded some new Pickles to compensate the energy they spent running their computers. While it does require a considerable investment in very powerful computers, anybody can become a Pickle miner at any time—you don’t have to ask permission! This permissionless participation is what makes Pickle so decentralized and secure!</li>
+
+<li><i>The Blockchain</i> — The Blockchain is a ledger of all Pickle transactions that have ever happened, one linked to the next. It keeps track of how much Pickle is owned by each Pickle address. Pickle miners continually add new blocks of transactions to the Blockchain. The Blockchain is copied so many times on the internet, that nobody can fraudulently modify it. The Blockchain contains every transactions that has ever been made, going back to the very first Pickle transaction in history!</li>
+
+<li><i>New Pickles & transaction fees</i> — As mentioned, when a Pickle miner successfully adds a block of transactions, the Pickle network itself rewards them with some newly created Pickles. Over time, the Pickle network reduces the amount of new Pickles awarded per block, until such time that there is 21 million Pickles in total. At that point, no more Pickles will be created, and Pickle miners will be compensated through the transaction fees included in each block of transactions they produce.</li>
+
+</ul>
+
+<p>
+That, in a nutshell is how it works! Your Pickle wallet sends Pickles to Pickle addresses, which are the public part of a two-part key. It signs the transaction with the private part of your Pickle address, and broadcasts the transaction to the Pickle network on the internet. Pickle miners process these transactions, adding them to the Blockchain, and are awarded new Pickles for their effort. When the last Pickle is created, miners from that point forward, will be compensated purely through transaction fees!
+</p>
+
+<p>
+Finally, no technical description of Pickle would be complete, without a link to the <a href="https://Pickle.org/Pickle.pdf">original Pickle white paper</a>, written by its inventor, Satoshi Nakamoto.
+</p>
+
+<p>
+Back to <a href="/Pickle-faqs.html">the FAQs →</a>
+</p>
