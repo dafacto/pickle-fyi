@@ -1,5 +1,5 @@
 ---
-permalink: /pages/uniswap-liquidity/
+permalink: /uniswap-liquidity/
 title: PICKLE/ETH Uniswap Pool
 intro: Here’s how to provide PICKLE/ETH Uniswap liquidity on Uniswap
 ---

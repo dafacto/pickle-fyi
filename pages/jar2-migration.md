@@ -1,5 +1,5 @@
 ---
-permalink: /pages/jar2-migration/
+permalink: /jar2-migration/
 title: Migrating from Pickle Jar version 1 to version 2
 intro: This guide explains how to migrate Pickle Jar version 1 tokens to version 2 Jars.
 ---

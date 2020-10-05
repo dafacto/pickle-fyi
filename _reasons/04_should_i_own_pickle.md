@@ -10,7 +10,7 @@ Folks interested in getting their hands on some Pickles can do so in a couple of
 
 2. **Farm them with PICKLE/ETH** — You can [deposit both ETH and PICKLE on Uniswap](https://uniswap.info/pair/0xdc98556Ce24f007A5eF6dC1CE96322d65832A819) (yes, you’d obviously need to have some PICKLE at that point), and then stake your UNI-LP tokens in the Pickle Farm to earn PICKLEs.
 
-3. **Farm them while farming Uniswap** — You can [participate in Uniswap’s farming program](https://app.uniswap.org/#/uni), deposit your UNI-LP tokens in a Pickle Jar, and then stake your Jar pTokens in a Farm to earn additional PICKLES! Here’s a [procedure how to do that](/pages/uniswap-pickle/).
+3. **Farm them while farming Uniswap** — You can [participate in Uniswap’s farming program](https://app.uniswap.org/#/uni), deposit your UNI-LP tokens in a Pickle Jar, and then stake your Jar pTokens in a Farm to earn additional PICKLES! Here’s a [procedure how to do that](/uniswap-pickle/).
 
 And for those wondering about holding the Pickle token, we of course can’t offer investing advice, but here’s a few thoughts published by other investors.
 

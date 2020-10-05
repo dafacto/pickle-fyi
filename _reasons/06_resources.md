@@ -20,9 +20,9 @@ intro: Now that you know the basics, here’s some resources and frequently aske
 
 - The Pickle token emission schedule (coming soon)
 - The Pickle roadmap (coming soon)
-- [How to migrate Pickle Jar version 1 tokens to version 2 Jars](/pages/jar2-migration/)
-- [How to maximize earning through the Pickle/Uniswap farming combo](/pages/uniswap-pickle/)
-- [How to provide PICKLE/ETH liquidity on Uniswap](/pages/uniswap-liquidity/)
+- [How to migrate Pickle Jar version 1 tokens to version 2 Jars](/jar2-migration/)
+- [How to maximize earning through the Pickle/Uniswap farming combo](/uniswap-pickle/)
+- [How to provide PICKLE/ETH liquidity on Uniswap](/uniswap-liquidity/)
 
 ### I’ve still got some questions.
 

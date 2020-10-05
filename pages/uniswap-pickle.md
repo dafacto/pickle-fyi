@@ -1,5 +1,5 @@
 ---
-permalink: /pages/uniswap-pickle/
+permalink: /uniswap-pickle/
 title: Uniswap & Pickle Farming
 intro: Here’s how to maximize your yield with Uniswap & Pickle Farming!
 ---
