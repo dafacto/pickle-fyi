@@ -11,6 +11,7 @@ intro: Now that you know the basics, let’s answer some of the most frequently 
 - Original [PicoPaper](https://pickle.finance/pickle-pico-paper-en.pdf), and [launch blog post](https://medium.com/@picklefinance/pickle-finance-launch-beea2eb8eacb)
 - Pickle community on [Discord](http://discord.gg/gR85hmC) and [Twitter](https://twitter.com/picklefinance)
 - [Governance portal](https://snapshot.page/#/pickle)
+- [Pickle Forum](https://forum.pickle.finance)
 - [PICKLE/ETH](https://uniswap.info/pair/0xdc98556Ce24f007A5eF6dC1CE96322d65832A819) pair at Uniswap
 - [PICKLE token](https://uniswap.info/token/0x429881672b9ae42b8eba0e26cd9c73711b891ca5) on Uniswap
 - [Open-source software](https://github.com/pickle-finance/contracts) on GitHub
