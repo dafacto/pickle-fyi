@@ -23,6 +23,4 @@ intro: Essential resources of the Pickle Finance ecosystem, along with some key 
 - [How to maximize earning through the Pickle/Uniswap farming combo](/uniswap-pickle/)
 - [How to provide PICKLE/ETH liquidity on Uniswap](/uniswap-liquidity/)
 
-### I’ve still got some questions.
-
-Feel free to [reach out on Discord](http://discord.gg/gR85hmC), and we’ll try our best to help.
+[Pickle Press from around the interwebs.](/press/) →
