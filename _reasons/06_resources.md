@@ -24,6 +24,10 @@ intro: Now that you know the basics, here’s some resources and frequently aske
 - [How to maximize earning through the Pickle/Uniswap farming combo](/uniswap-pickle/)
 - [How to provide PICKLE/ETH liquidity on Uniswap](/uniswap-liquidity/)
 
+### Pickle Press
+
+- 2020-10-06 [State of the Pickle Jar](https://medium.com/the-pickle-press/state-of-the-pickle-jar-e50ea9dbc02f)
+
 ### I’ve still got some questions.
 
 Feel free to [reach out on Discord](http://discord.gg/gR85hmC), and we’ll try our best to help.
