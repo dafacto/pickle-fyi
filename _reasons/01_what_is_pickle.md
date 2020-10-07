@@ -10,6 +10,6 @@ There are many assets in the crypto space whose values are “pegged” to other
 
 Sometimes assets get off-peg, say, when DAI is $1.02, and that’s where Pickle Finance helps. Through yield dynamics, Pickle Finance incentivizes market behavior to help off-peg assets get back on peg. For example, if DAI is off-peg, Pickle will increase the yield on its DAI-based products, incentivizing the purchase of DAI.
 
-Pickle Finance offers a suite of products which are accessed by connecting an Ethereum wallet like Metamask to the [Pickel Finance](https://pickle.finance) platform.
+Pickle Finance offers a suite of products which are accessed by connecting an Ethereum wallet like Metamask to the [Pickel Finance](https://app.pickle.finance) platform.
 
 Let’s now explore [the Pickle Products.](/products/) →

@@ -6,7 +6,7 @@ intro: Essential resources of the Pickle Finance ecosystem, along with some key 
 
 ### Pickle Resources
 
-- [Pickle Platform](https://pickle.finance)
+- [Pickle Platform](https://app.pickle.finance)
 - The original [PicoPaper](https://pickle.finance/pickle-pico-paper-en.pdf), and [launch blog post](https://medium.com/@picklefinance/pickle-finance-launch-beea2eb8eacb)
 - [Documentation](https://docs.pickle.finance)
 - [Discord](http://discord.gg/gR85hmC)
