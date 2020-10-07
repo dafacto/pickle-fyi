@@ -20,7 +20,7 @@ Pickle Farms allow users to deposit a variety of tokens, and earn PICKLE tokens,
 
 ### Pickle Staking
 
-People who stake their PICKLE tokens at Pickle Finance receive a portion of the fees that the platform earns from the Pickle Jar 0.5% withdrawal fee. These rewards are distributed and claimable on a weekly basis.
+People who stake their PICKLE tokens at Pickle Finance receive a proportionate share of the Jars’s 4.5% performance fees. 
 
 ![](/images/2020-10-07-staking.png)
 
