@@ -6,7 +6,7 @@ intro: You can earn ’em, or you can buy ’em.
 
 Here’s how you can get your hands on some Pickles!
 
-1. *Buy them* — [Directly on Uniswap](https://uniswap.info/pair/0xdc98556Ce24f007A5eF6dC1CE96322d65832A819). If you need to manually add the PICKLE token, its contract address is 0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5
+1. *Buy them* — [Directly on Uniswap](https://uniswap.info/pair/0xdc98556Ce24f007A5eF6dC1CE96322d65832A819). If you need to manually add the PICKLE token, its contract address is [0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5](https://etherscan.io/address/0x429881672b9ae42b8eba0e26cd9c73711b891ca5)
 
 2. *Farm them with PICKLE/ETH* — Deposit both ETH and PICKLE [on Uniswap](https://uniswap.info/pair/0xdc98556Ce24f007A5eF6dC1CE96322d65832A819) and then stake your UNI-LP tokens in the Pickle Farm to earn PICKLEs.
 
