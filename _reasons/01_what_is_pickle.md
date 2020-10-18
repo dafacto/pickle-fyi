@@ -1,17 +1,13 @@
 ---
 permalink: /what-is-pickle/
 title: What is Pickle Finance?
-intro: Pickle is a platform that incentivizes the maintenance of crypto asset pegs through yield-generating products.
+intro: Pickle is a DeFi platform offering innovative products that provide yield on your crypto!
 ---
-
-### Off peg bad. On peg good!
 
 ![](/images/2020-10-08-home.png)
 
-There are many assets in the crypto space whose values are “pegged” to other assets; the most common being  stablecoins such as USDC, USDT and DAI, which are intended to be pegged to one US Dollar. 
+The mission of Pickle is to be your one-stop shop for maximizing yield earning on your crypto, both today and in the future. As of the time of this writing, people have entrusted more than $150 million dollars with Pickle.
 
-Sometimes assets get off-peg, say, when DAI is $1.02, and that’s where Pickle Finance helps. Through yield dynamics, Pickle Finance incentivizes market behavior to help off-peg assets get back on peg. For example, if DAI is off-peg, Pickle will increase the yield on its DAI-based products, incentivizing the purchase of DAI.
-
-Pickle Finance offers a suite of products which are accessed by connecting an Ethereum wallet like Metamask to the [Pickle Finance](https://app.pickle.finance) platform.
+The platform offers a suite of products which are accessed by connecting an Ethereum wallet like Metamask to the [Pickle Finance](https://app.pickle.finance) platform.
 
 Let’s now explore [the Pickle Products.](/products/) →
