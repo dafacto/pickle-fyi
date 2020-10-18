@@ -1,7 +1,7 @@
 ---
 permalink: /products/
 title: Pickle Products
-intro: Pickle Finance offers a suite of products that earn yield for our users, while helping crypto assets remain on peg.
+intro: Pickle Finance offers a suite of products that earn yield for our users.
 ---
 
 ### Pickle Jars
