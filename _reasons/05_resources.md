@@ -16,6 +16,7 @@ intro: Essential resources of the Pickle Finance ecosystem, along with some key 
 - [GitHub](http://github.com/pickle-finance/protocol)
 - [Token contract](https://etherscan.io/address/0x429881672b9ae42b8eba0e26cd9c73711b891ca5)
 - [PICKLE/ETH pool on Uniswap](https://uniswap.info/pair/0xdc98556Ce24f007A5eF6dC1CE96322d65832A819)
+- [Pickle Jar Stats](https://pickle-jar.info)
 
 ### Pickle Pages
 
