@@ -7,14 +7,10 @@ intro: Essential resources of the Pickle Finance ecosystem, along with some key 
 ### Official Resources
 
 - [Pickle Platform](https://app.pickle.finance)
-- The original [PicoPaper](https://pickle.finance/pickle-pico-paper-en.pdf), and [launch blog post](https://medium.com/@picklefinance/pickle-finance-launch-beea2eb8eacb)
-- [Documentation](https://docs.pickle.finance)
-- [Discord](http://discord.gg/gR85hmC)
-- [Twitter](https://twitter.com/picklefinance)
-- [Forum](https://forum.pickle.finance)
-- [Governance](https://snapshot.page/#/pickle)
+- [Forum](https://forum.pickle.finance), [Governance](https://snapshot.page/#/pickle) & [Documentation](https://docs.pickle.finance)
+- [Medium](https://medium.com/@picklefinance/pickle-finance-launch-beea2eb8eacb), [Discord](http://discord.gg/gR85hmC) & [Twitter](https://twitter.com/picklefinance)
 - [GitHub](http://github.com/pickle-finance/protocol)
-- [Pickel Timelock Transactions Dashboard](https://timelock.pickle.finance)
+- [Timelock Transactions Dashboard](https://timelock.pickle.finance)
 
 ### Network Resources
 
