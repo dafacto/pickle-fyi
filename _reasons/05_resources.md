@@ -4,7 +4,7 @@ title: Pickle Resources
 intro: Essential resources of the Pickle Finance ecosystem, along with some key extended help articles.
 ---
 
-### Pickle Resources
+### Official Resources
 
 - [Pickle Platform](https://app.pickle.finance)
 - The original [PicoPaper](https://pickle.finance/pickle-pico-paper-en.pdf), and [launch blog post](https://medium.com/@picklefinance/pickle-finance-launch-beea2eb8eacb)
@@ -14,10 +14,16 @@ intro: Essential resources of the Pickle Finance ecosystem, along with some key 
 - [Forum](https://forum.pickle.finance)
 - [Governance](https://snapshot.page/#/pickle)
 - [GitHub](http://github.com/pickle-finance/protocol)
+- [Pickel Timelock Transactions Dashboard](https://timelock.pickle.finance)
+
+### Network Resources
+
 - [Token contract](https://etherscan.io/address/0x429881672b9ae42b8eba0e26cd9c73711b891ca5)
 - [PICKLE/ETH pool on Uniswap](https://uniswap.info/pair/0xdc98556Ce24f007A5eF6dC1CE96322d65832A819)
+
+### Community Resources
+
 - [Pickle Jar Stats](https://pickle-jar.info)
-- [Pickel Timelock Transactions Dashboard](https://timelock.pickle.finance)
 
 ### Pickle Pages
 

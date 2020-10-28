@@ -24,4 +24,11 @@ People who stake their PICKLE tokens at Pickle Finance receive a proportionate s
 
 ![](/images/2020-10-08-staking.png)
 
+### Pickle Jar Swap
+
+Imagine you’re earning APY in a BTC-related Jar, and due to a surge in BTC price, you’d like to switch into USD. You can do that directly at Pickle by swapping from one Jar to another, free of charge!
+
+![](/images/2020-10-28-swap.png)
+
 Now that we’ve seen how to benefit from Pickle, let’s look at [how to get some Pickles!](/get-pickle/) →
+
