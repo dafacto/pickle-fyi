@@ -1,6 +1,6 @@
 ---
 permalink: /jar-flows/
-title: Visualization of Pickle Jar Strategies
+title: Pickle Jar Strategies
 intro: Community contributed visualizations of how funds flow in Pickle Jars.
 ---
 
