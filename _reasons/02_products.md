@@ -10,7 +10,7 @@ Pickle Jars allow users to deposit tokens from liquidity pools such as Uniswap, 
 
 ![](/images/2020-10-07-jars.png)
 
-The Jars retain 4.5% of earned profits, which goes to the Pickle Treasury, and the displayed APY figures are net of fees. There is also a 0.5% withdrawal fee, a portion of which is distributed to Pickle Stakers (see below).
+The Pickle project retains 27.5% of the profits it earns its Jar customers, currently the lowest amoung its peers. Of these profits, 20% is directed to the Pickle Treasury (which often benefits Pickle stakers), and 7.5% to the Development Fund.
 
 ### Pickle Farms
 
