@@ -6,11 +6,11 @@ intro: Pickle Finance offers a suite of products that earn yield for our users.
 
 ### Pickle Jars
 
-Pickle Jars allow users to deposit tokens from liquidity pools such as Uniswap, and then execute sophisticated strategies that benefit the depositor. For example, the series 0.69 Jars auto-harvest the Uniswap UNI token, sell those tokens, and purchase more Uniswap liquitidy tokens on behalf of the user.
+Pickle Jars allow users to deposit tokens from liquidity pools such as Uniswap, and then execute sophisticated strategies that benefit the depositor. For example, the series 0.69 Jars auto-harvest the Uniswap UNI token, sell those tokens, and purchase more Uniswap liquidity tokens on behalf of the user.
 
 ![](/images/2020-10-07-jars.png)
 
-The Pickle project retains 27.5% of the profits it earns its Jar customers, currently the lowest amoung its peers. Of these profits, 20% is directed to the Pickle Treasury (which often benefits Pickle stakers), and 7.5% to the Development Fund.
+The Pickle project retains 27.5% of the profits it earns its Jar customers, currently the lowest among its peers. Of these profits, 20% is directed to the Pickle Treasury (which often benefits Pickle stakers), and 7.5% to the Development Fund.
 
 ### Pickle Farms
 
