@@ -15,6 +15,7 @@ intro: Essential resources of the Pickle Finance ecosystem, along with some key 
 
 - [Token contract](https://etherscan.io/address/0x429881672b9ae42b8eba0e26cd9c73711b891ca5), [PICKLE/ETH pool on Uniswap](https://uniswap.info/pair/0xdc98556Ce24f007A5eF6dC1CE96322d65832A819)
 - Pickle Treasury on [Zapper](https://zapper.fi/dashboard?address=0x066419eaef5de53cc5da0d8702b990c5bc7d1ab3) and [Zerion](https://app.zerion.io/0x066419eaef5de53cc5da0d8702b990c5bc7d1ab3/overview)
+- Pickle Development Fund on [Zapper](https://zapper.fi/dashboard?address=0x2fee17F575fa65C06F10eA2e63DBBc50730F145D) and [Zerion](https://app.zerion.io/0x2fee17F575fa65C06F10eA2e63DBBc50730F145D/overview)
 - [Timelock Transactions Dashboard](https://timelock.pickle.finance)
 
 ### Community Resources
