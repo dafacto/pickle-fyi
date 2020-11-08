@@ -20,9 +20,9 @@ intro: Essential resources of the Pickle Finance ecosystem, along with some key 
 
 ### Community Resources
 
-- [Visualization of Jar fund flow](/jar-flows/) (@gabrielhaines)
 - [Pickle Jar Stats](https://pickle-jar.info) (@jintao)
 - [Dune Analytics Dashboard](https://duneanalytics.com/0xBoxer/pickle-finance-pjar-dashboard) (@0xBoxer)
+- [Visualization of Jar fund flow](/jar-flows/) (@gabrielhaines)
 - [Farming Dashboard](https://vfat.tools/pickle/) (@vfat)
 
 ### Pickle Pages
