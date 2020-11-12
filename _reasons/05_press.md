@@ -4,6 +4,9 @@ title: Pickle Press
 intro: Pickle accolades and mentions from all around the interwebs!
 ---
 
+
+
+- [What is Pickle Finance?](https://cryptotesters.com/review/what-is-pickle-finance) (Crypto Testers, 2020-11-12)
 - [Pickle in a Pickle — A post-mortem](https://medium.com/@picklefinance/pickle-in-a-pickle-a-post-mortem-741a3d516c89) (Medium, 2020-10-07)
 - [State of the Pickle Jar](https://medium.com/the-pickle-press/state-of-the-pickle-jar-e50ea9dbc02f) (Medium, 2020-10-06)
 - [The Great Connection](https://medium.com/@Scotty./the-great-connection-7a039b202c30) (Medium, 2020-10-03)
