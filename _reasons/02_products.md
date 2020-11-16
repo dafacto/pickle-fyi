@@ -20,7 +20,7 @@ Pickle Farms allow users to deposit a variety of tokens, and earn PICKLE tokens,
 
 ### Pickle Staking
 
-People who stake their PICKLE tokens at Pickle Finance receive a proportionate share of the Jars’s 4.5% performance fees. 
+People who stake their PICKLE tokens at Pickle Finance receive profits earned by the project. Currently, that is all Treasury funds in excess of $500,000. 
 
 ![](/images/2020-10-08-staking.png)
 
