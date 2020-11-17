@@ -23,6 +23,7 @@ intro: Essential resources of the Pickle Finance ecosystem, along with some key 
 
 - [Pickle Jar Stats](https://pickle-jar.info) (@jintao)
 - [Dune Analytics Dashboard](https://duneanalytics.com/0xBoxer/pickle-finance-pjar-dashboard) (@0xBoxer)
+- [Pool Rewards Analysis Dashboard](https://pickle-analysis.netlify.app) (@swolemair)
 - [Visualization of Jar fund flow](/jar-flows/) (@gabrielhaines)
 - [Farming Dashboard](https://vfat.tools/pickle/) (@vfat)
 
