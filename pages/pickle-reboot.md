@@ -1,7 +1,7 @@
 ---
 permalink: /reboot/
-title: Pickle & Yearn Strategic Collaboration
-intro: This document provides information about the Pickle & Yearn collaboration.
+title: Pickle & Yearn Collaboration
+intro: This document provides information about the Pickle & Yearn strategic collaboration.
 ---
 
 ## Pickle & Yearn Strategic Collaboration
