@@ -8,7 +8,7 @@ intro: Essential resources of the Pickle Finance ecosystem, along with some key 
 
 - [Pickle Platform](https://pickle.finance)
 - [Forum](https://forum.pickle.finance), [Governance](https://snapshot.page/#/pickle) & [Documentation](https://docs.pickle.finance)
-- [Medium](https://medium.com/@picklefinance/pickle-finance-launch-beea2eb8eacb), [Discord](http://discord.gg/gR85hmC) & [Twitter](https://twitter.com/picklefinance)
+- [Medium](https://medium.com/@picklefinance/pickle-finance-launch-beea2eb8eacb), [Discord](http://discord.gg/uG6WhYkM8n) & [Twitter](https://twitter.com/picklefinance)
 - [GitHub](http://github.com/pickle-finance/protocol)
 
 ### Network Resources
